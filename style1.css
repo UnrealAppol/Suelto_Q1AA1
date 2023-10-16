@@ -1,0 +1,86 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	}
+
+    body{
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #navbar #LG img{
+        border-radius: 50%;
+        height: 30px;
+        width: 30px;
+    }
+
+	#navbar{
+	border: 1px solid black;
+	margin: 3px;
+	padding: 3px;
+	text-align: left;
+	background-color: black;
+    height: 5vh;
+    width: 100vw;
+	}
+	#links{
+		display: inline;
+	}
+	#navbar #links a{
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 600;
+		text-decoration: none;
+		padding: 3px;
+		margin: 5px;
+		border: 1px solid black;
+        float: right;
+        background-color: white;
+        color: tomato;
+    }
+
+    sub{
+        text-align: center;
+        justify-content: center;
+    }
+
+    #pic1 img{
+        height: 250px;
+        width: 250px;
+        text-align: center;
+    }
+    #pic2 img{
+        height: 250px;
+        width: 250px;
+        text-align: center;
+    }
+    #pic3 img{
+        height: 250px;
+        width: 250px;
+        text-align: center;
+    }
+    #pic4 img{
+        height: 250px;
+        width: 250px;
+        text-align: center;
+    }
+    #pic5 img{
+        height: 250px;
+        width: 250px;
+        text-align: center;
+    }
+    #pic6 img{
+        height: 250px;
+        width: 250px;
+        text-align: center;
+    }
+
+
+#linkers #sink a{
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 3px;
+    float: right;
+    background-color: white;
+    color: blue;
+}
